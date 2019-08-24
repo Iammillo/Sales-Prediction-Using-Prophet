@@ -1,2 +1,2 @@
 # Sales-Prediction-Using-Prophet
-Sales prediction using historical data of the store for upcoming six weeks.
+In this project, sales quantity has been predicted for upcoming 6 weeks using historical data. The dataset for the project is obtained from https://www.kaggle.com/c/rossmann-store-sales.  For this, time series prediction model developed by facebook i.e. Prophet has been used.
